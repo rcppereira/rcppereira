@@ -2,7 +2,7 @@
 
 About me:
 
-    🌃🌍 I'm 18 years old and I live in São Paulo-SP, Brazil
+    🌃🌍 I'm 19 years old and I live in São Paulo-SP, Brazil
   
    
     🌱🧱I'm a database student at FIAP in the first semester. 
