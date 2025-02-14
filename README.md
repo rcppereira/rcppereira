@@ -2,7 +2,7 @@
 
 ## About Me
 
-🌍 I'm 21 years old and based in São Paulo, Brazil.
+🌍 I'm 21 years old and based in São Paulo, Brazil. I'm moving to Malta to improve my English.
 
 🎓I have a degree in database from FIAP
 
