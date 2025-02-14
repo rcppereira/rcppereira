@@ -31,3 +31,8 @@
 📧 You can reach me at: [catharina.pechtoll@gmail.com](mailto:catharina.pechtoll@gmail.com)
 
 Let's connect and collaborate on exciting data projects! 🚀
+
+
+**Projects are being developed! 
+GitHub under maintenance!**
+
