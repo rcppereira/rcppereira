@@ -1,38 +1,47 @@
-# 👋🏻 Hi, I'm Rafaela Catharina Pechtoll Pereira
+# 👋🏻 Hi, I'm Rafaela Catharina Pechtoll Pereira  
 
-## About Me
+## About Me  
 
-🌍 I'm 21 years old and based in São Paulo, Brazil. I'm moving to Malta to improve my English.
+🚀 I'm a **Data Engineer** with strong experience in designing and implementing **scalable data architectures and pipelines**, ensuring data quality, performance, and integration across diverse platforms.  
 
-🎓I have a degree in database from FIAP
+🔧 Skilled in **SQL, Python, PySpark, and Databricks**, with hands-on expertise in cloud ecosystems such as **Azure, GCP, and AWS**. I have worked on end-to-end **ETL/ELT development**, workflow orchestration, and data process optimization to support decision-making in dynamic corporate environments.  
 
-🔧 I'm constantly improving my skills in **Data Engineering**, focusing on building efficient data pipelines, **ETL processes**, and exploring cloud technologies such as **Google Cloud**, **AWS**, and **Azure**.
+🎓 Currently, I’m pursuing an **MBA in Data Engineering** at Mackenzie University to expand my strategic and technical knowledge.  
 
-🔍 In my free time, I love experimenting with new technologies, creating projects on **GitHub**, and diving into **Data Science** to gain deeper insights through visualizations and analytics.
+💡 I’m passionate about transforming business needs into impactful data solutions, collaborating across teams, and leveraging technology to drive results.  
 
-## Skills & Technologies
+---
 
-- **Programming Languages**: Python, SQL
-- **Tools**: Pandas, NumPy, Matplotlib, Seaborn, Airflow, Databricks, Perfect, PrismaIO, Luigi, Dagster, Kafka, Informatica Cloud, Docker, Terraform, BigQuery
-- **Databases**: PostgreSQL, MySQL, MongoDB, BigQuery, Neo4j
-- **Cloud**: Google Cloud Platform (GCP), AWS
-- **Data Visualization**: Tableau, Power BI, Google Data Studio, Looker
-- **Version Control**: Git, GitHub
+## Skills & Technologies  
 
+- **Data Engineering**: SQL, Python, PySpark, Databricks, Azure Data Factory, Airflow, AWS Glue, DBT, Data Lakes, Data Warehouses, Streaming  
+- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
+- **Databases**: SQL Server, BigQuery, PostgreSQL, MongoDB, NoSQL  
+- **Orchestration & Workflow**: Airflow, Prefect, Dagster, Luigi, Jenkins  
+- **Visualization & Monitoring**: Power BI, Tableau, Grafana, Prometheus  
+- **Infra & DevOps**: Terraform, Docker, Kubernetes  
 
-## Fun Facts
+---
 
-- 🧶 I enjoy learning new crafts and finding creative ways to express myself.
-- 🏋🏻‍♀️ Fitness is important to me, and I love to stay active and challenge myself in physical exercises.
-- 📖 I'm a passionate scrapbooker, and I enjoy documenting my journey.
+## Professional Highlights  
 
-## Contact
+- 📊 Built and optimized **payment and anti-fraud pipelines** at **Shopee**, supporting regional compliance and risk strategies.  
+- ⚙️ Designed and maintained **ETL pipelines** at **Sinch** using Databricks, AWS, and GCP.  
+- 🌍 Gained international experience as a **Data Analytics Engineer** at **Avalon (Spain)**, integrating and modeling data for academic and business use cases.  
 
-📧 You can reach me at: [catharina.pechtoll@gmail.com](mailto:catharina.pechtoll@gmail.com)
+---
 
-Let's connect and collaborate on exciting data projects! 🚀
+## Fun Facts  
 
+- 🧶 I enjoy learning new crafts and finding creative ways to express myself.  
+- 🏋🏻‍♀️ Fitness is a big part of my routine, and I love challenging myself with new physical activities.  
+- 📖 I’m passionate about scrapbooking and documenting my journey through creative storytelling.  
 
-**Projects are being developed! 
-GitHub under maintenance!**
+---
 
+## Contact  
+
+📧 Reach me at: [cpechtoll@gmail.com](mailto:cpechtoll@gmail.com)  
+🔗 LinkedIn: [Rafaela Pereira](https://www.linkedin.com/in/rafaela-pereira-087284209/)  
+
+✨ Let’s connect and collaborate on building impactful, scalable data solutions! 🚀  
