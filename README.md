@@ -30,7 +30,7 @@
 
 - 📊 Built and optimized **payment and anti-fraud pipelines** at **Shopee**, ensuring compliance and risk management across LATAM operations.  
 - 🌍 Designed and maintained **ETL pipelines** at **Sinch**, working remotely with international teams to deliver scalable solutions on AWS and GCP.  
-- ⚙️ Developed **ML engineering pipelines** to support data science workflows, enabling scalable feature stores, model training, and deployment on Databricks and cloud platforms.  
+-  **ML engineering pipelines** to support data science workflows, enabling scalable feature stores, model training, and deployment on Databricks and cloud platforms.  
 - 🌍 Gained international experience as a **Data Analytics Engineer** at **Avalon (Spain)**, integrating and modeling data for academic and business use cases.  
 
 ---
