@@ -46,6 +46,6 @@
 ## Contact  
 
 📧 Reach me at: [cpechtoll@gmail.com](mailto:cpechtoll@gmail.com)  
-🔗 LinkedIn: [Rafaela Pereira](https://www.linkedin.com/in/rafaela-pereira-087284209/)  
+🔗 LinkedIn: [Rafaela Pereira](https://www.linkedin.com/in/rafaela-catharina-pechtoll-087284209)  
 
 ✨ Let’s connect and collaborate on building impactful, scalable data solutions! 🚀  
