@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Rafaela Catharina Pechtoll Pereira  
+# 👋🏻 Hi, I'm Rafaela
 
 ## About Me  
 
