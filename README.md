@@ -16,10 +16,10 @@
 
 ## Skills & Technologies  
 
-- **Data Engineering**: SQL, Python, PySpark, Databricks, Azure Data Factory, Airflow, AWS Glue, DBT, Data Lakes, Data Warehouses, Streaming  
+- **Data Engineering**: SQL, Python, PySpark, Databricks, DBT, Data Lakes, Data Warehouses, Streaming  
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 - **Databases**: SQL Server, BigQuery, PostgreSQL, MongoDB, NoSQL  
-- **Orchestration & Workflow**: Airflow, Prefect, Dagster, Luigi, Jenkins  
+- **Orchestration & Workflow**: Airflow, Prefect, Dagster, Luigi, Jenkins, Airbyte, Matillion 
 - **Visualization & Monitoring**: Power BI, Tableau, Grafana, Prometheus  
 - **Infra & DevOps**: Terraform, Docker, Kubernetes  
 - **Machine Learning Engineering**: Feature Engineering, ML Pipelines, Model Deployment, Experiment Tracking (MLflow)  
